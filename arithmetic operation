@@ -1,0 +1,16 @@
+a=100
+b=3
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a**b)
+ 
+ 
+ out put
+ 
+ 103
+97
+300
+33.333333333333336
+1000000
