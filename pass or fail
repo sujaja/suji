@@ -1,0 +1,32 @@
+sno=int(input('enter sno'))
+name=input('enter name of the student:')
+group=input('enter group of the student:')
+s1=int(input('enter marks of student 1:'))
+s2=int(input('enter marks of student 2:'))
+s3=int(input('enter marks of student 3:'))
+print('sno:',sno)
+print('name:',name)
+print('group:',group)
+print('student 1:',s1)
+print('student 2:',s2)
+print('student 3:',s3)
+print('passed')if(s1>=30 and s2>30 and s3>30)else print('failed')
+
+
+out put
+
+
+enter sno234
+enter name of the student:sujtha
+enter group of the student:maircs
+enter marks of student 1:35
+enter marks of student 2:47
+enter marks of student 3:55
+sno: 234
+name: sujtha
+group: maircs
+student 1: 35
+student 2: 47
+student 3: 55
+passed
+
