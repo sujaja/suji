@@ -1,0 +1,12 @@
+Balance=1000
+credited=int(input("enter the amount to be credited"))
+print("CREDITED AMOUNT=",credited)
+print("REMAINING BALANCE=",Balance+credited)
+             
+
+
+out put
+
+enter the amount to be credited4000
+CREDITED AMOUNT= 4000
+REMAINING BALANCE= 5000
