@@ -1,0 +1,15 @@
+pin=int(input("enter your pin number"))
+if(pin==7080):
+        print("continur the transation")
+else:
+    print("INCORRECT PIN NUMBER")
+    print("PLEASE TRY AGAIN")
+
+
+out put
+
+enter your pin number 456
+INCORRECT PIN NUMBER
+PLEASE TRY AGAIN
+7080
+7080
